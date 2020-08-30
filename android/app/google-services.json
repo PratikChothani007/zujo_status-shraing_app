@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545692714473",
+    "firebase_url": "https://zujo-83b97.firebaseio.com",
+    "project_id": "zujo-83b97",
+    "storage_bucket": "zujo-83b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545692714473:android:e42745f339409919e0f778",
+        "android_client_info": {
+          "package_name": "com.example.zujo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545692714473-dv948efj90hsa92bd4pj6s8b29l8fg8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyColfMure2ZBQJk7OwbbjT-pmOMxdugc2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545692714473-dv948efj90hsa92bd4pj6s8b29l8fg8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
