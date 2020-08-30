@@ -5,7 +5,7 @@ import '../provider/all_status_provider.dart';
 import '../widgets/status_card.dart';
 
 class AllStatusScreen extends StatelessWidget {
-  static final String routeName = "/my-status-screen";
+  static final String routeName = "/all-status-screen";
 
   Future<void> reFresh(BuildContext context) async {
     try {
